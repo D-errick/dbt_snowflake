@@ -295,14 +295,7 @@ my_project/
 
 ---
 
-## 6. Next Steps
-
-- **Today:** Finalize dbt transformations and tests.
-- **Tomorrow:** Integrate Airflow, configure connections, and schedule dbt runs.
-
----
-
-## 7. References
+## 6. References
 
 - [dbt Documentation](https://docs.getdbt.com/)
 - [Snowflake Documentation](https://docs.snowflake.com/)
